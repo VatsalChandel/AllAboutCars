@@ -1,3 +1,10 @@
+#white{
+  color: white;
+}
+
+
+
+
 #containerCenterTop {
   text-align: center;
 
@@ -20,15 +27,7 @@
   transform: translateY(-50%);
 }
 
-#containerLeft {
-  text-align: left;
 
-  position: absolute;
-  left: 15px;
-  right: 0;
-  top: 90%;
-  transform: translateY(-50%);
-} 
 
 #containerRight {
   text-align: right;
@@ -41,10 +40,7 @@
 }
 
 
-#container strong {
-  font-size: 20px;
-  line-height: 26px;
-}
+
 
 #container p {
   font-size: 16px;
